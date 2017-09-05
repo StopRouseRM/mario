@@ -15,7 +15,8 @@ namespace mario
              dibujarPiramide(niveles);
 
         }
-        //Todo el código va aquí 2s
+        //Todo el código va aquí 2
+        // Este ejemplo es por Carlos
         static void dibujarPiramide(int niveles){
             //Aquí va todo
             
